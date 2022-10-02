@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NavigationDrawable</string>
+    <string name="home">Home</string>
+    <string name="menu_gallery" />
+    <string name="s">menu_gallery</string>
+    <string name="menu_slideshow">menu_slideShow</string>
+    <string name="aloqa">Aloqa</string>
+    <string name="telegram">Telegram</string>
+    <string name="instagram">Instagram</string>
+    <string name="ss">Rate</string>
+    <string name="open">Ochiq</string>
+    <string name="close">Yopiq</string>
+    <string name="android">Android</string>
+    <string name="ashnaqada">Ashnaqada</string>
+    <string name="development">Development</string>
+</resources>

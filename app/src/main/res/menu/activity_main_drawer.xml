@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_photo_camera_24"
+            android:title="@string/home"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_baseline_photo_library_24"
+            android:title="@string/s"/>
+        <item
+            android:id="@+id/nav_slideShow"
+            android:icon="@drawable/ic_baseline_ondemand_video_24"
+            android:title="@string/menu_slideshow"/>
+    </group>
+    <group android:checkableBehavior="single">
+
+        <item android:title="@string/aloqa">
+            <menu>
+                <item
+                    android:id="@+id/menuTelegram"
+                    android:icon="@drawable/ic_baseline_send_24"
+                    android:title="@string/telegram"/>
+                <item
+                    android:id="@+id/w"
+                    android:icon="@drawable/ic_baseline_photo_camera_24"
+                    android:title="@string/instagram"/>
+                <item
+                    android:id="@+id/menuRate"
+                    android:icon="@drawable/ic_baseline_favorite_border_24"
+                    android:title="@string/ss"/>
+            </menu>
+
+        </item>
+
+    </group>
+
+</menu>
